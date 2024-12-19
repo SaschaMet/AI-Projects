@@ -1,0 +1,9 @@
+.env
+.DS_Store
+_private/
+*.json
+*.log
+*.pdf
+AI Support Agent/ticket_helpdesk_profiling_report.html
+__pycache__
+tmp
