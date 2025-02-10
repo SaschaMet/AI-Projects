@@ -4,6 +4,9 @@ _private/
 *.json
 *.log
 *.pdf
-AI Support Agent/ticket_helpdesk_profiling_report.html
 __pycache__
 tmp
+AI Support Agent/ticket_helpdesk_profiling_report.html
+AI Support Agent/qdrant_storage/
+AI Support Agent/n8n_data/
+AI Support Agent/data/ready/
